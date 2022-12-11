@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395731848317",
+    "project_id": "tabouk-9a7b5",
+    "storage_bucket": "tabouk-9a7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395731848317:android:0615b3561795efbf467514",
+        "android_client_info": {
+          "package_name": "com.omar.tabouk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395731848317-h1ch1rfgiip3il42k993v889s4v7ldj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWEym3T7Kfd_AS9ksXwf6yuBQapiz90A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395731848317-h1ch1rfgiip3il42k993v889s4v7ldj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
